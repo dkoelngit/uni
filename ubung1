@@ -1,6 +1,6 @@
-public class Hello {
+public class Dariush {
     public static void main(String[] args){
-                System.out.println("Hey");
+                System.out.println("Hallo mein Name ist Dariush und ihr studiere Wirtschatsmathematik");
     }
 }
 
