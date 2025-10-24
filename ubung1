@@ -1,7 +1,9 @@
-package uni;
-
 public class Hello {
     public static void main(String[] args){
                 System.out.println("Hey");
     }
 }
+
+
+#Alter Account von Github hat die pushes im neuen Repo ausgeführt
+#Problem behoben 
