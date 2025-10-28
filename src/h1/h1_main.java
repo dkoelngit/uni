@@ -1,4 +1,4 @@
-package hausuafgaben.h1;
+package h1;
 import java.util.Random;
 
 public class h1_main {
