@@ -12,7 +12,7 @@ public class h1_main {
 
         if (z>10) {
             System.out.println("Der Wert von z ist über 10, demnach werden 10 abgezogen"); 
-            //Mit den beiden prints sieht der benutzer was das ursprüglich Z war und das jetzt 10 abgezogen werden, da es größer als 10 ist
+            //Mit den beiden prints sieht der Benutzer was das ursprüglich Z war und das jetzt 10 abgezogen werden, da es größer als 10 ist
             z = z - 10;
             System.out.println("Der neue Wert von z ist " + z);
         } else { System.out.println("Da z kleiner als 10 ist passiert nichts");
